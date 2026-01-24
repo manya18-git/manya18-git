@@ -2,13 +2,7 @@
 
 ### 💻 Frontend Developer | 🤖 AI Explorer | 🌐 Full‑Stack Builder
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manya-gupta-50054825">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/GPA-8.72/10-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/I%20Build-AI%20%7C%20Web%20%7C%20Data-orange?style=for-the-badge" />
-</p>
+
 
 ---
 
