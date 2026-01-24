@@ -43,7 +43,7 @@ A healthcare web platform that helps users understand symptoms and get personali
 🔹 Personalized recommendations with **~85% accuracy**
 🔹 Clean UI that improved navigation efficiency by **30%**
 
-🔗 **Repo:** MediSinCare
+
 
 ---
 
@@ -56,7 +56,7 @@ An AI-powered system that detects image tampering using deep learning.
 🔹 Deployed using **AWS + Docker**
 🔹 **93%+ accurate** CNN/VGG16/ResNet pipeline
 
-🔗 **Repo:** ImageGuard
+
 
 ---
 
@@ -69,7 +69,7 @@ A full-stack movie booking system built using the MERN stack.
 🔹 Handled **100+ simulated users**
 🔹 Reduced booking time by **25%**
 
-🔗 **Repo:** iMovies
+
 
 ---
 
@@ -86,22 +86,14 @@ Improved manuscripts through editing and proofreading.
 ## 🏆 Achievements I'm Proud Of
 
 🏅 Research paper presenter selected among **1,200 out of 168,000 applicants** at a national conference
+
+
 💻 Solved **100+ LeetCode problems** to sharpen DSA skills
 
 ---
 
-## 📈 GitHub Stats Zone
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
 
 ---
-
-## 🎯 What I'm Looking For
-
-Opportunities in **Full‑Stack Development, AI/ML, and Data Engineering** where I can build impactful systems and grow as an engineer.
 
 ---
 
@@ -112,4 +104,3 @@ Opportunities in **Full‑Stack Development, AI/ML, and Data Engineering** where
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories and connect!
