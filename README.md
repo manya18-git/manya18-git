@@ -93,14 +93,10 @@ Improved manuscripts through editing and proofreading.
 ---
 
 
----
-
----
-
 ## 📫 Reach Me
 
 📧 [manyagupta1800@gmail.com](mailto:manyagupta1800@gmail.com)
-🔗 LinkedIn: manya-gupta-50054825
+
 
 ---
 
