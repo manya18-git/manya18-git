@@ -1,6 +1,6 @@
 # Hey there, I'm Manya Gupta 👋
 
-### 💻 Frontend Developer | 🤖 AI Explorer | 🌐 Full‑Stack Builder
+### 💻 Full‑Stack Developer | 🤖 AI Explorer | 🌐 Python and MySQL 
 
 
 
@@ -20,7 +20,7 @@ I’m a **Computer Science student at Vellore Institute of Technology** who love
 ## 🧰 My Tech Playground
 
 **Languages**
-`Python` `Java` `C++` `SQL` `JavaScript`
+`Python` `Java` `C++` `MySQL` `JavaScript`
 
 **Frontend & Web**
 `React.js` `HTML` `CSS` `Flask` `MERN Stack`
