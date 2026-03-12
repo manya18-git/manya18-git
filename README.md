@@ -1,102 +1,142 @@
-# Hey there, I'm Manya Gupta 👋
+<div align="center">
 
-### 💻 Full‑Stack Developer | 🤖 AI Explorer | 🌐 Python and MySQL 
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=45&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=MANYA+GUPTA" />
+</h1>
 
+</div>
 
+<p align="center">
+  <strong>Full-Stack Developer | AI Explorer | Python • Machine Learning • MERN</strong>
+</p>
 
----
-
-## ✨ Who Am I?
-
-I’m a **Computer Science student at Vellore Institute of Technology** who loves turning ideas into real, working products. Whether it’s an AI model detecting fake images or a full booking system running smoothly, I enjoy building things that are both **smart** and **useful**.
-
-🧠 Problem solver at heart
-⚙️ Builder of full-stack systems
-📊 Data + AI enthusiast
-🚀 Always learning something new
-
----
-
-## 🧰 My Tech Playground
-
-**Languages**
-`Python` `Java` `C++` `MySQL` `JavaScript`
-
-**Frontend & Web**
-`React.js` `HTML` `CSS` `Flask` `MERN Stack`
-
-**AI & Data**
-`Machine Learning` `Deep Learning` `ONNX` `Power BI` `Excel`
-
-**Tools I Use to Make Magic** ✨
-`AWS EC2` `S3` `Docker` `Git` `GitHub`
+<p align="center">
+  <a href="mailto:manyagupta1800@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/manya18-git"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🚀 Cool Things I've Built
+# 👩‍💻 About Me
 
-### 🏥 MediSinCare — Your Smart Health Buddy
+🎓 **Computer Science student at Vellore Institute of Technology**
 
-A healthcare web platform that helps users understand symptoms and get personalized wellness guidance.
+💡 Passionate about building **AI-powered and full-stack applications**
 
-🔹 Covers **100+ diseases** and **100+ symptoms**
-🔹 Personalized recommendations with **~85% accuracy**
-🔹 Clean UI that improved navigation efficiency by **30%**
+🚀 Love turning ideas into **real working products**
 
-
+📊 Interested in **Artificial Intelligence, Full-Stack Development and Data Systems**
 
 ---
 
-### 🖼 ImageGuard — AI That Spots Fake Images
+# 🛠 Tech Stack Dashboard
 
-An AI-powered system that detects image tampering using deep learning.
-
-🔹 Real-time image upload & preview
-🔹 Flask + ONNX optimized backend
-🔹 Deployed using **AWS + Docker**
-🔹 **93%+ accurate** CNN/VGG16/ResNet pipeline
-
-
+| Category | Skills | Category | Skills |
+| :--- | :--- | :--- | :--- |
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,js" /> | 🌐 **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css" /> |
+| ⚙ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,flask" /> | 🗄 **Databases** | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| 🤖 **AI / ML** | Machine Learning • Deep Learning • ONNX | 📊 **Data Tools** | Power BI • Excel |
+| ☁ **Cloud & Dev Tools** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" /> | 🌐 **Stack** | MERN Stack |
 
 ---
 
-### 🎬 Movie Ticket Booking Platform
+# 🚀 Projects
 
-A full-stack movie booking system built using the MERN stack.
+## 🏥 MediSinCare — Smart Healthcare Platform
 
-🔹 Live seat selection 🎟️
-🔹 Secure booking flow
-🔹 Handled **100+ simulated users**
-🔹 Reduced booking time by **25%**
+A healthcare platform that helps users understand symptoms and receive wellness guidance.
 
+✔ Covers **100+ diseases and symptoms**
 
+✔ Personalized recommendations with **~85% accuracy**
 
----
-
-## 💼 Real‑World Experience
-
-**CoreCard Software India — Data Warehouse Intern**
-Worked with large databases, SQL queries, and built dashboards in Power BI.
-
-**Indra Publishing House — Editorial Intern**
-Improved manuscripts through editing and proofreading.
+✔ Clean UI improving navigation efficiency by **30%**
 
 ---
 
-## 🏆 Achievements I'm Proud Of
+## 🖼 ImageGuard — AI Fake Image Detector
 
-🏅 Research paper presenter selected among **1,200 out of 168,000 applicants** at a national conference
+AI system that detects tampered images using deep learning.
 
+✔ Real-time image upload & preview
 
-💻 Solved **100+ LeetCode problems** to sharpen DSA skills
+✔ CNN / VGG16 / ResNet pipeline
+
+✔ **93%+ detection accuracy**
+
+✔ Backend built with **Flask + ONNX**
+
+✔ Deployed using **AWS + Docker**
 
 ---
 
+## 🎬 Movie Ticket Booking System
 
-## 📫 Reach Me
+Full-stack movie ticket booking application.
 
-📧 [manyagupta1800@gmail.com](mailto:manyagupta1800@gmail.com)
+✔ Built with **MERN stack**
 
+✔ Live **seat selection system**
+
+✔ Secure booking workflow
+
+✔ Handled **100+ simulated users**
+
+✔ Reduced booking time by **25%**
 
 ---
 
+# 💼 Internship Experience
+
+## Data Warehouse Intern  
+**CoreCard Software India**
+
+• Worked with **large datasets and SQL queries**
+
+• Built **Power BI dashboards**
+
+• Assisted with **data warehouse optimization**
+
+---
+
+## Editorial Intern  
+**Indra Publishing House**
+
+• Edited manuscripts for clarity and readability
+
+• Improved content quality through proofreading
+
+---
+
+# 🏆 Achievements
+
+🏅 **Research Paper Presenter**
+
+Selected among **1,200 candidates from 168,000 applicants** at a national conference.
+
+💻 **DSA Practice**
+
+Solved **100+ LeetCode problems**.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=manya18-git&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=manya18-git&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manya18-git&theme=github-dark"/>
+
+---
+
+<br>
+
+<p align="center">
+⭐ <i>Passionate about building intelligent applications that combine AI with real-world impact.</i>
+</p>
