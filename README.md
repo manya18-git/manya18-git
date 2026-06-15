@@ -129,9 +129,7 @@ Solved **100+ LeetCode problems**.
 
 ---
 
-# 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manya18-git&theme=github-dark"/>
 
 ---
 
